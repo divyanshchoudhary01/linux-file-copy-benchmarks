@@ -6,9 +6,9 @@ A collection of Linux file-copy implementations written in C++ to explore and co
 
 * [x] mmap
 * [x] Parallel mmap
-* [x] read/write
+* [] read/write
 * [ ] pread/pwrite
-* [ ] readv/writev
+* [x] readv/writev
 * [ ] preadv/pwritev
 * [ ] Parallel preadv/pwritev
 
